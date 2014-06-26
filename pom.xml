@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>decompress-tar</artifactId>
-    <version>0.1.1-SNAPSHOT</version>
+    <version>0.1.1</version>
     <name>decompress-tar</name>
     <description>WebJar for decompress-tar</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/decompress-tar</url>
         <connection>scm:git:https://github.com/webjars/decompress-tar.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/decompress-tar.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>decompress-tar-0.1.1</tag>
     </scm>
 
     <developers>
